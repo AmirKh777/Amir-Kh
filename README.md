@@ -6,7 +6,7 @@
 
 - **Languages:** Python, SQL.
 - **Data Analysis:** Pandas, NumPy, SciPy, EDA.
-- **Visualitation:** Matplotlib, Seaborn, построение графиков и корреляций.
+- **Visualitation:** Matplotlib, Seaborn, building correlations and graphs.
 - **Math and Statistics:** probability theory, statistics, basics of linear algebra and math analysis, hypothesis testing, , A/B-testing.
 - **Machine Learning:** Scikit-learn, classic models, quality metrics, feature engineering...
 - **Technologies:** Jupyter Notebook, Excel, Git, Microsoft Azure ML Studio.
