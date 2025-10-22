@@ -1,14 +1,12 @@
-# Amir
-<div id="header" align="center">
-  <h2>Привет, я Амир</h2>
-  <h3>Студент, активно изучающий сферу Data Science, программирование и математику</h3>
-</div>
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Amir</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Data Science student from Russia</h3>
 
-### Навыки
+### Skills
 
-- **Языки:** Python, SQL.
-- **Анализ данных:** Pandas, NumPy, SciPy, EDA.
-- **Визуализация:** Matplotlib, Seaborn, построение графиков и корреляций.
-- **Математика и статистика:** Теория вероятностей, статистика, основы линейной алгебры и математического анализа, проверка гипотез, доверительные интервалы, A/B-тестирование.
-- **Машинное обучение:** Scikit-learn, классические модели, метрики оценки качества, feature engineering и др. 
-- **Технологии и инструменты:** Jupyter Notebook, Excel, Git, Microsoft Azure ML Studio.
+- **Languages:** Python, SQL.
+- **Data Analysis:** Pandas, NumPy, SciPy, EDA.
+- **Visualitation:** Matplotlib, Seaborn, построение графиков и корреляций.
+- **Math and Statistics:** probability theory, statistics, basics of linear algebra and math analysis, hypothesis testing, , A/B-testing.
+- **Machine Learning:** Scikit-learn, classic models, quality metrics, feature engineering...
+- **Technologies:** Jupyter Notebook, Excel, Git, Microsoft Azure ML Studio.
